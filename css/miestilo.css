@@ -1,0 +1,52 @@
+.nombre{
+    font-size: 50px !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    line-height: 1 !important;
+    font-weight: 700 !important;
+    letter-spacing: 2px !important;
+    text-transform: uppercase !important;
+    color: #040505 !important;
+}
+.fondo{
+    background-color: #062c33 !important;
+}
+
+.iconos{
+    font-size: 42px;
+    margin-bottom: 30px;
+    color: #34ce57 !important;
+    display: block;
+}
+
+.milinea{
+    background-color: #34ce57 !important;
+}
+
+.pie{
+    font-size: 25px !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    line-height: 1 !important;
+    font-weight: 700 !important;
+    letter-spacing: 2px !important;
+    text-transform: uppercase !important;
+    color: #040505 !important;
+}
+
+.letra{
+    color: #fd7e14 !important;
+}
+
+.cancion{
+    font-family: consolas, monospace;
+    color: #fd7e14;
+    line-height: 1.4;
+    font-weight: 600;
+    font-size: 30px !important;
+}
+
+.video{
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
